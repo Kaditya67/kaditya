@@ -5,7 +5,7 @@
 
 ---
 
-## Focus Here too  😎
+## 😎 Look Here :
 
 ## Simple Goals
 
