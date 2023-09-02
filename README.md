@@ -13,10 +13,30 @@
 - 🚀 Have goal and move straight to it like a rocket
 - 🌍 Contribute to the World
 
+---
+
+<!--
+👋 Hey there! Welcome to my GitHub profile.
+I'm passionate about coding, open source, and technology.
+
+🚀 Currently on a journey to explore the limitless possibilities of code.
+
+💡 Always learning, always growing. Coding is my superpower.
+
+🌱 I believe in the power of collaboration. Let's build something awesome together!
+
+📚 Check out my repositories to see what I'm working on.
+
+👇 Feel free to connect with me and let's code the future together!
+-->
+
+<!-- Keep coding, stay curious! -->
+
+
 ```python
         def hello():
         print("Hello, World!")
-        print("Welcome To this Page"
+        print("Welcome To this Page")
 
 
 
