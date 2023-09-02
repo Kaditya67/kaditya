@@ -5,9 +5,9 @@
 
 ---
 
-# My Cool Markdown Document 😎
+## Focus Here too  😎
 
-This is a simple Markdown document with some emojis:
+##Simple Goals
 
 - 😀 Be Happy
 - 🚀 Have goal and move straight to it like a rocket
