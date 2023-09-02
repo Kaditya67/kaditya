@@ -29,9 +29,13 @@ I'm passionate about coding, open source, and technology.
 
 👇 Feel free to connect with me and let's code the future together!
 
+---
 
-<!-- Keep coding, stay curious! -->
+## Keep coding, stay curious! 
 
+---
+
+###  Best code ever ...
 
 ```python
         def hello():
