@@ -7,7 +7,7 @@
 
 ## Focus Here too  😎
 
-##Simple Goals
+## Simple Goals
 
 - 😀 Be Happy
 - 🚀 Have goal and move straight to it like a rocket
@@ -15,7 +15,7 @@
 
 ---
 
-<!--
+
 👋 Hey there! Welcome to my GitHub profile.
 I'm passionate about coding, open source, and technology.
 
@@ -28,7 +28,7 @@ I'm passionate about coding, open source, and technology.
 📚 Check out my repositories to see what I'm working on.
 
 👇 Feel free to connect with me and let's code the future together!
--->
+
 
 <!-- Keep coding, stay curious! -->
 
