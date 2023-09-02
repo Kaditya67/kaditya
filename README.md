@@ -5,10 +5,10 @@
 
 ---
 
-```python
-def hello():
+    ```python
+    def hello():
     print("Hello, World!")
-    print("Welcome To this Page")
+    print("Welcome To this Page"
 
 ---
 
