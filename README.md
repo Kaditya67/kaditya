@@ -5,14 +5,18 @@
 
 ---
 
+# My Cool Markdown Document 😎
+
+This is a simple Markdown document with some emojis:
+
+- 😀 Be Happy
+- 🚀 Have goal and move straight to it like a rocket
+- 🌍 Contribute to the World
+
 ```python
         def hello():
         print("Hello, World!")
         print("Welcome To this Page"
-
----
-
-
 
 
 
