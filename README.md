@@ -12,7 +12,6 @@ def hello():
 
 ---
 
-> This is a blockquote.
 
 
 
