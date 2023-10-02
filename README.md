@@ -35,7 +35,7 @@ I'm passionate about coding, open source, and technology.
 
 ---
 
-[![Kaditya67's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaditya67&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kaditya67's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaditya67&show_icons=true&count_private=true&include_all_commits=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ###  Best code ever ...
