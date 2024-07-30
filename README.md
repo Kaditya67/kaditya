@@ -35,8 +35,6 @@ I'm passionate about coding, open source, and technology.
 
 ---
 
-[![Kaditya67's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaditya67&show_icons=true&count_private=true&include_all_commits=true&theme=prussian)]
-
 <h2 align="center">Statistics 📈 </h2>
 <p align="center">
 <img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=kaditya67&show_icons=true&theme=tokyonight" />     
